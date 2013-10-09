@@ -2,7 +2,7 @@
 *.apk
 *.ap_
 
-#222222222222222222 files for the dex VM
+#22222222222 files for the dex VM
 *.dex
 
 # Java class files
