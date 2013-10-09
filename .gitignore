@@ -1,8 +1,8 @@
-#333 built application files
+# built application files
 *.apk
 *.ap_
 
-#22222222222 files for the dex VM
+# files for the dex VM
 *.dex
 
 # Java class files
